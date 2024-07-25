@@ -2,5 +2,10 @@
 
 source "https://rubygems.org"
 
-gemspec
-
+# gem "rails"
+gem "jekyll"
+gem "tzinfo"
+gem "csv"
+gem "base64"
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
