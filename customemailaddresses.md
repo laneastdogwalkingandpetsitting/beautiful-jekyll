@@ -3,9 +3,13 @@ layout: default
 title: No frills websites
 subtitle: Cheap and cheerful websites; why pay for something complicated if you don't need it.
 ---
+## What about email?
+
 Want to add a more professional touch to your business communication with a custom email address (like I have [hello@nofrillswebsites.co.uk](mailto:hello@nofrillswebsites.co.uk))? Rather than using a gmail, yahoo, btinternet or outlook address, you can have an email address that matches your website address.
 
-I can also set this up assuming I manage your domain name, making use of [Zoho workspace](https://www.zoho.com/workplace/). Zoho workspace offer (in their own words) a 'Forever Free Plan Up to five users, 5GB/User, 25MB attachment limit. Web access only. Email hosting for single domain.'.
+I can also set this up assuming I manage your domain name, making use of [Zoho workspace](https://www.zoho.com/workplace/) - Zoho workspace offer a free basic email service for up to 5 users. In their own words:
+
+*'Forever Free Plan Up to five users, 5GB/User, 25MB attachment limit. Web access only. Email hosting for single domain.'.*
 
 What this means, is that you can have:
 
@@ -17,4 +21,4 @@ What this means, is that you can have:
  
 Note: If this turns out to be not enough for your requirements, you can upgrade to their 'standard' teir for £2.40 per user per month.
 
-I can set this up for you at an estimated cost of £15.
+I can set this up for you at an estimated cost of £15 - it should take around an hour to setup.

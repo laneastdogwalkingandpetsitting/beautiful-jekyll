@@ -16,7 +16,7 @@ Already have a domain name, <a href="#existingdomainname"> click here</a>.
 Once you are happy with what you want your domain to be called, I can register this for you and set it up to work with the website. The domain costs approx. £5-£25 per year - I'll need payment for the first year before I do this on your behalf. Every year I'll invoice you for the renewal[^1] [^2].
 
 <h2 id="existingdomainname">Already got a domain name?</h2>
-Great. I can use this, but some settings will need to be changed - a domain name has a number of settings behind the scenes which computers use to know what to do with the domain name. These settings[^3] describe where to go to load the website, but can also include what to do if the domain name is used in an email address, eg [hello@nofrillswebsites.co.uk](mailto:hello@nofrillswebsites.co.uk).
+Great. I can use this, but some settings will need to be changed - a domain name has a number of settings behind the scenes which computers use to know what to do with the domain name. These settings describe where to go to load the website, but can also include what to do if the domain name is used in an email address[^3], eg [hello@nofrillswebsites.co.uk](mailto:hello@nofrillswebsites.co.uk).
 
 I can give you the settings you'll need to change on your domain - you should have a login from the domain provider to allow you to do this - bare in mind this is getting into advanced stuff. If you prefer, it is possible to transfer a domain to me to manage but we would need to check what it is already being used for to ensure no disruption of services.
 
