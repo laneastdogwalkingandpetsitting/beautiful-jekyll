@@ -5,19 +5,20 @@ subtitle: Cheap and cheerful websites; why pay for something complicated if you 
 ---
 ## How does this work?
 
-When I needed to create a website for my wife's dog walking business, I wanted it to be as cheap as possible to create and maintain. Most people go with a website hosting company for a *build-it-yourself* website. This has 2 drawbacks:
+The idea behind no frills websites, is to bring together some free or low cost services available on the Internet along with my ability to create websites and publish them.
+
+This all started when I needed to create a website for my wife's dog walking business, I wanted it to be as cheap as possible to create and maintain. The usual way people get a websitethese days is to pay a hosting company for a *build-it-yourself* website. This has 2 drawbacks:
 
 + they tend to charge a significant amount per month
 + you have to learn how to make a website using their tools
 
-I wanted to go a different path; hosting a _basic_ website is actually very cheap, if you know how to make them yourself and how to host them online. Which I do.
+I wanted to go a different path; hosting a _basic_ website doesn't have to cost a great deal if you know how to make them yourself and how to host them online. Which I do.
 
-After creating my wife's [website](https://www.laneastdogwalkingservices.co.uk) and another one for a [friend](https://www.romacoon.com), I realised that there may be a demand for basic websites with minimal fuss and cost for small businesses and individuals. I decided to offer this exact service.
+After creating my wife's [website](https://www.laneastdogwalkingservices.co.uk) and [another](https://www.romacoon.com) one for a friend, I realised that there may be a demand for basic websites with minimal fuss and cost for small businesses and individuals. I decided to offer this exact service.
 
 ## How to begin
 
 Before starting, you're going to want to know how much this will cost. For me to give you an estimate, I'll need to know how much content you want on your website.
-
 
 In order to do this, I'll need you to send me:
 
@@ -31,7 +32,9 @@ Once you've sent me this, I will review it all and may come back to you for clar
 
 Once I feel I have enough information, I can give you an estimate for the cost, taking into account how long I think it will take to create the website for you and the cost of the domain name (if required).
 
-If you agree to the estimate, I'll ask for 50% of the estimated cost before I start. Once the website is finished, I'll ask you for the remainder of the cost[^2]. If I find that the amount of work needed to create the website exceeds the estimate I have given. I will contact you to inform you how much extra time I estimate is needed[^3]. Of course if my estimate was in excess of what was actually needed, the final cost will come down.
+If you're ready to go ahead, I'll invoice you for 50% of the estimated cost. Once payment is received, I'll start work on the website.
+
+Once the website is finished, I'll ask you for the remainder of the cost[^2]. If I find that the amount of work needed to create the website exceeds the estimate I have given. I will contact you to inform you how much extra time I estimate is needed[^3]. Of course if my estimate was in excess of what was actually needed, the final cost will come down.
 
 <div style="clear:both; border-left: 3px solid green; background-color: lightgreen; padding:10px">
     Interested?

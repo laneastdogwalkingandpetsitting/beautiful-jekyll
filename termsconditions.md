@@ -4,10 +4,14 @@ title: No frills websites
 subtitle: Cheap and cheerful websites; why pay for something complicated if you don't need it.
 ---
 
+## Terms and conditions
+
 ### Payment for creating websites
+
 I ask for 50% of the estimated costs upfront. Once the site is finished[^1], I'll let you know how long it took and invoice you for the final cost. Once I receive this I'll then publish the site. If full payment is not received, I reserve the right to make the website unavailable until full payment is received. 
 
 ### Estimates
+
 Estimates are based on the information provided, are not legally binding and are subject to change. The final price may vary depending on additional services required to complete the work.
 It may be that the amount of work needed to create the website exceeds the estimate I have given. If this happens I will contact you to inform you how much extra time I estimate is needed.
 
