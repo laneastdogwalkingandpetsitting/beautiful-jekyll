@@ -1,17 +1,17 @@
 ---
 layout: default
 title: No frills websites
+description: All about domain names for your website
 subtitle: Cheap and cheerful websites; why pay for something complicated if you don't need it.
 ---
 
 # Domain name
+
 For a website you need a domain name. For this website, the domain name is "nofrillswebsites.co.uk". I chose '.co.uk' as this is a **co**mmercial website in the **uk** (and these tend to be the cheapest sort), but others are available. You need to choose a domain name that describes what you website will be about, but is easy to remember and type in. This can take some thought and isn't something to rush into.
 
 <!-- <div style="background:lightgreen; padding:5px">
 Already have a domain name, <a href="#existingdomainname"> click here</a>.
 </div> -->
-
-
 
 Once you are happy with what you want your domain to be called, I can register this for you and set it up to work with the website. The domain costs approx. £5-£25 per year - I'll need payment for the first year before I do this on your behalf. Every year I'll invoice you for the renewal[^1] [^2].
 
@@ -23,8 +23,6 @@ I can give you the settings you'll need to change on your domain - you should ha
 ---
 
 [^1]: If you don't wish to renew, I can let the domain lapse, just let me know.
-
-
 
 [^2]: If you should ever decide you want to take control of your domain - perhaps later you want website with all those bells and whistles - no problem, just let me know and I can transfer the domain name to your own domain registrar.
 

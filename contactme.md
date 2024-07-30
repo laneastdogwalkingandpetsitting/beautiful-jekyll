@@ -1,6 +1,7 @@
 ---
 layout: default
 title: No frills websites
+description: How to contact me if you are interested in a website.
 subtitle: Cheap and cheerful websites; why pay for something complicated if you don't need it.
 ---
 # Got a question?

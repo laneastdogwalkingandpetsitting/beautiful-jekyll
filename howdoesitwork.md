@@ -1,6 +1,7 @@
 ---
 layout: default
 title: No frills websites
+description: An explanation about how my nofrillswebsites service works.
 subtitle: Cheap and cheerful websites; why pay for something complicated if you don't need it.
 ---
 ## How does this work?
@@ -23,10 +24,11 @@ Before starting, you're going to want to know how much this will cost. For me to
 In order to do this, I'll need you to send me:
 
 + a description of what your website will be about
-+ what your [domain name](/domainname) will be (if you've decided yet)
 + any thoughts you may have about what different pages you want on the site. As an absolute minimum you'd want a home page and a contact me/us. The rest really depends on what your website is for. If it's a business site, you probably want a few pages describing your products and services, a prices page, terms and conditions, etc.
 + the text you want on your website. This can be typed in Microsoft Word, email or even via What's App.
 + any images you would like on the website (images must be your copyright - not something downloaded off another website, eg Facebook). If you don't know exactly what images you want, tell me the approximate number and/or give me some examples.
++ what your [domain name](/domainname) will be if you've decided yet. Let me know if you'd like some advice.
++ what [theme](https://jekyllthemes.io/free) you would like - or I can pick what i think would work well.
 
 Once you've sent me this, I will review it all and may come back to you for clarification, more details or suggestions.
 
