@@ -9,7 +9,7 @@ subtitle: Cheap and cheerful websites; why pay for something complicated if you 
 
 ### Payment for creating websites
 
-I ask for 50% of the estimated costs upfront. Once the site is finished[^1], I'll let you know how long it took and invoice you for the final cost. Once I receive this I'll then publish the site. If full payment is not received, I reserve the right to make the website unavailable until full payment is received. 
+I ask for 50% of the estimated costs upfront. Once the site is finished, I'll let you know how long it took and invoice you for the final cost. Once I receive this I'll then publish the site. If full payment is not received, I reserve the right to make the website unavailable until full payment is received.
 
 ### Estimates
 
