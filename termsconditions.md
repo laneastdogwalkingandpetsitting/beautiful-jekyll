@@ -22,19 +22,19 @@ If extra content is sent to me to be added, it is likely that I will need to cha
 
 #### Transfers
 
-If you decide you would like to transfer your domain to a different domain registrar, let me know and I'm happy to do this free of charge. Once transferred however it is up to you to ensure it is correctly configured.
+If you decide you would like to transfer your domain so that it is no longer managed by me (ie to a different domain registrar), let me know and I'm happy to do this free of charge. Once transferred however it is up to you to ensure it is correctly configured.
 
 #### Renewals
 
-Every year your website domain will need to be renewed. Prior to renewal, I will invoice you for the renewal cost. If you do not pay the invoice your domain will lapse and eventually will cease to function and you may lose the domain altogether.
+Every year your website domain will need to be renewed. Prior to renewal, I will invoice you for the renewal cost. If you do not pay the invoice your domain will lapse and eventually will cease to function and you may lose the domain altogether. Renewal costs are sometimes a little more expensive than puying it for the first time, but should still be around the £5 - £25 range (perhaps £30 for an expensive domain). If you're not happy with the domain renewal cost, you can of course transfer it away (see above).
 
 #### Use of your own domain
 
-As I have no control of the configuration of your domain, I cannot be held responsible if your website is not accessible due to incorrect configuration of the domain with your domain registrar.
+As I have no control of the configuration of your domain, I cannot be held responsible if your website is not accessible due to incorrect configuration of the domain with your domain registrar. I will of course give you all the necessary configuration you need to put in place.
 
 #### Availability of websites / uptime
 
-I can accept no liability if your website becomes unavailable. Your website will be hosted with a free hosting provider and there is no guarantee of uptime or availability. The service I provide is to create a website and make it available at a minimal cost. Since I started creating websites this way, however, I've not had any problems.
+Your website will be hosted with a free hosting provider and there is no guarantee of uptime or availability. The service I provide is to create a website and make it available at a minimal cost. Since I started creating websites this way, however, I've not had any problems, but to be clear I can accept no liability if your website becomes unavailable.
 
 ### Website transfers
 
